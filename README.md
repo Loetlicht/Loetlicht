@@ -31,7 +31,7 @@ Jedes Projekt hat:
 | Projekt | Beschreibung | Status |
 |---|---|---|
 | **Lötkolben-Lampe** | Lampe in Form eines Lötkolbens aus dem 3D-Drucker – die Spitze leuchtet | 🛠️ in Arbeit |
-| **Rocker-Leuchte** | Wappen-Leuchte mit wechselbarem Band-Logo und leuchtendem Gitarrenhals, gesteuert über WLED | 🛠️ in Arbeit |
+| [**Rocker-Leuchte**](https://github.com/Loetlicht/rocker-leuchte) | Wappen-Leuchte mit wechselbarem Band-Logo und leuchtendem Gitarrenhals, gesteuert über WLED | 🛠️ in Arbeit |
 | **Wetterleuchte** | Zwei ESP32 per ESP-NOW: LED-Strip zeigt die Temperatur als Farbe und warnt vor Gewittern, mit Web-Dashboard | ✅ läuft |
 | **Wetter-Vogelhaus** | Akku-Aussensensor (DHT22 + BMP280) mit Deep Sleep im 3D-gedruckten Vogelhaus | 🛠️ in Arbeit |
 
