@@ -56,4 +56,10 @@ Jedes Projekt hat:
 Du hast ein Projekt nachgebaut? Zeig es mir!
 Fragen, Fehler oder Verbesserungsideen gehören in die **Issues** des jeweiligen Projekts – ich freue mich über jede Rückmeldung.
 
+---
+
+## Lizenz
+
+Alle Lötlicht-Projekte stehen unter [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de): nachbauen, verändern und teilen ausdrücklich erwünscht – mit Namensnennung, nicht kommerziell und unter gleichen Bedingungen. Details stehen in der `LICENSE`-Datei des jeweiligen Projekts.
+
 <p align="center"><i>Viel Spass beim Löten – und Finger weg von der Spitze. 😉</i></p>
